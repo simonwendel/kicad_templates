@@ -1,7 +1,7 @@
 EESchema Schematic File Version 4
 EELAYER 29 0
 EELAYER END
-$Descr USLetter 11000 8500
+$Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""

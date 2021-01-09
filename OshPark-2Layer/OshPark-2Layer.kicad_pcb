@@ -9,7 +9,7 @@
     (nets 1)
   )
 
-  (page USLetter)
+  (page A4)
   (title_block
     (rev 1)
   )
